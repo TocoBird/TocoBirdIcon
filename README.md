@@ -1,1 +1,2 @@
 # TocoBirdIcon
+tsx, svg, png  
